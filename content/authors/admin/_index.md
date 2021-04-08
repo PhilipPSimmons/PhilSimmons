@@ -19,9 +19,9 @@ interests:
 - Computational Linguistics
 - Information Retrieval
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+- name: SIntuitive Surgical
+  url: https://www.intuitive.com
+role: Organizational Research Analyst
 social:
 - icon: envelope
   icon_pack: fas
