@@ -1,25 +1,24 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: I research humans in the workplace.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-email: ""
+  - course: PhD in Industrial/Organizational Psychology
+    institution: University of Nebraska at Omaha
+    year: 2021
+  - course: MA in Social and Personality Psychology
+    institution: University of Nebraska at Omaha
+    year: 2017
+  - course: BA in Psychology
+    institution: Rowan University
+    year: 2013
+email: "philpsimmons@gmail.com"
 highlight_name: false
 interests:
 - Artificial Intelligence
 - Computational Linguistics
 - Information Retrieval
 organizations:
-- name: SIntuitive Surgical
+- name: Intuitive Surgical
   url: https://www.intuitive.com
 role: Organizational Research Analyst
 social:
