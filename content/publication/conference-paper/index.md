@@ -22,11 +22,11 @@ links:
   url: http://example.org
 projects:
 - internal-project
-publication: In *Source Themes Conference*
+publication: In *29th Association for Psychological Science Annual Convention*
 publication_short: In *STC*
 publication_types:
 - "1"
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2017-05-01T00:00:00Z"
 slides: example
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
   ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
