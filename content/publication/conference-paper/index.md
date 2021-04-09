@@ -8,8 +8,8 @@ abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere 
   Vestibulum sit amet erat at nulla eleifend gravida.
 authors:
 - admin
-- Rutz, D. B.
-- Ryan C. S.
+- Dani Rutz
+- Cary Ryan
 date: "2017-05-01T00:00:00Z"
 doi: ""
 featured: true
