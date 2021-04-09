@@ -16,39 +16,39 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
+- description:
   icon: flask
   icon_pack: fas
   name: Research Methodology
-- description: 95%
+- description:
   icon: chart-line
   icon_pack: fas
   name: Statistical Analysis
-- description: 95%
+- description:
   icon: poll
   icon_pack: fas
   name: Survey Design
-- description: 90%
+- description:
   icon: r-project
   icon_pack: fab
   name: R
-- description: 85%
+- description:
   icon: tachometer-alt
   icon_pack: fas
   name: Data Visualization
-- description: 90%
+- description:
   icon: robot
   icon_pack: fas
   name: Report Automation
-- description: 90%
+- description:
   icon: hands-helping
   icon_pack: fas
   name: Consulting
-- description: 100%
+- description:
   icon: file-powerpoint
   icon_pack: fas
-  name: Presentation Skills
-- description: 90%
+  name: Presenting
+- description:
   icon: search
   icon_pack: fas
   name: Program Evaluation
