@@ -17,18 +17,42 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: 90%
+  icon: flask
+  icon_pack: fas
+  name: Research Methodology
+- description: 95%
+  icon: chart-line
+  icon_pack: fas
+  name: Statistical Analysis
+- description: 95%
+  icon: poll
+  icon_pack: fas
+  name: Survey Design
+- description: 90%
   icon: r-project
   icon_pack: fab
   name: R
+- description: 85%
+  icon: tachometer-alt
+  icon_pack: fas
+  name: Data Visualization
+- description: 90%
+  icon: robot
+  icon_pack: fas
+  name: Report Automation
+- description: 90%
+  icon: hands-helping
+  icon_pack: fas
+  name: Consulting
 - description: 100%
-  icon: chart-line
+  icon: file-powerpoint
   icon_pack: fas
-  name: Statistics
-- description: 10%
-  icon: camera-retro
+  name: Presentation Skills
+- description: 90%
+  icon: search
   icon_pack: fas
-  name: Photography
-
+  name: Program Evaluation
+  
 # Uncomment to use emoji icons.
 #- icon = ":smile:"
 #  icon_pack = "emoji"
