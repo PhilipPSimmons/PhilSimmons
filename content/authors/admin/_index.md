@@ -15,8 +15,9 @@ email: "philpsimmons@gmail.com"
 highlight_name: false
 interests:
 - Human Motivation
-- Employee Selection and Performance 
-- Diversity and Inclusions Effectiveness
+- Selection
+- Performance
+- Diversity and Inclusions
 - R Programming
 organizations:
 - name: Intuitive Surgical
