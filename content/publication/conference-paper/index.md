@@ -8,8 +8,9 @@ abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere 
   Vestibulum sit amet erat at nulla eleifend gravida.
 authors:
 - admin
-- Robert Ford
-date: "2013-07-01T00:00:00Z"
+- Rutz, D. B.
+- Ryan C. S.
+date: "2017-05-01T00:00:00Z"
 doi: ""
 featured: true
 image:
@@ -31,7 +32,7 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere t
   ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 tags:
 - Source Themes
-title: An example conference paper
+title: Cynical Towards What? Cynicism Towards Management and Cynicism Towards Diversity Training Differentially Relate to Post-Diversity-Training Measures
 url_code: '#'
 url_dataset: '#'
 url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
