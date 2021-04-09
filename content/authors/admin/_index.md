@@ -14,9 +14,10 @@ education:
 email: "philpsimmons@gmail.com"
 highlight_name: false
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Human Motivation
+- Employee Selection and Performance 
+- Diversity and Inclusions Effectiveness
+- R Programming
 organizations:
 - name: Intuitive Surgical
   url: https://www.intuitive.com
