@@ -17,7 +17,7 @@ interests:
 - Human Motivation
 - Selection Systems
 - Performance Management
-- Diversity and Inclusions
+- Diversity and Inclusion
 - R Programming
 organizations:
 - name: Intuitive Surgical
@@ -46,4 +46,4 @@ title: Philip Simmons
 Philip Simmons is a California based industrial organizational psychologist. His research focuses on how employee attitudes and contextual factors (i.e., leadership support, executive diversity, rational) affects the effectiveness of diversity initiatives. As a practitioner, Philip has developed science-based employee measurement systems, selection processes, and organizational improvement strategies. Passionate about technology, he seeks new approaches to blend the science of organizational research with data science.
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
