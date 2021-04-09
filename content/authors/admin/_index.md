@@ -15,8 +15,8 @@ email: "philpsimmons@gmail.com"
 highlight_name: false
 interests:
 - Human Motivation
-- Selection
-- Performance
+- Selection Systems
+- Performance Management
 - Diversity and Inclusions
 - R Programming
 organizations:
