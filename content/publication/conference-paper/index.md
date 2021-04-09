@@ -9,7 +9,7 @@ date: "2017-05-01T00:00:00Z"
 doi: ""
 featured: true
 image:
-  caption: 'The "diversity day" episode of the office was a beautiful example of why cynicism can have multiple targets'
+  caption: 'The "diversity day" episode of The Office demonstrates why cynicism can have multiple targets'
   focal_point: ""
   preview_only: false
 links:
