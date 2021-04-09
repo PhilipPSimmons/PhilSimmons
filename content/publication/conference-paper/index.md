@@ -36,7 +36,7 @@ title: Cynical Towards What? Cynicism Towards Management and Cynicism Towards Di
 url_code: '#'
 url_dataset: '#'
 url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
-url_poster: '#'
+url_poster: "media/APS_2017.png"
 url_project: ""
 url_slides: ""
 url_source: '#'
