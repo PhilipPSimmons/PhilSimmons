@@ -2,7 +2,7 @@
 bio: I research humans in the workplace.
 education:
   courses:
-  - course: PhD in Industrial/Organizational Psychology
+  - course: PhD in I/O Psychology
     institution: University of Nebraska at Omaha
     year: 2021
   - course: MA in Social and Personality Psychology
