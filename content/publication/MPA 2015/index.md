@@ -14,7 +14,7 @@ image:
   focal_point: ""
   preview_only: false
 links:
-publication: Presented at *Management support, employee cynicism, and diversity training effectiveness*
+publication: Presented at *Midwestern Psychological Association Annual Meeting*
 publication_short:
 publication_types: 
 - "1"
@@ -22,7 +22,7 @@ publishDate: "2015-05-01T00:00:00Z"
 summary: 
 tags:
 - 
-title: "Perceptions of Diversity Training: A Mixed Methods Study"
+title: " Management support, employee cynicism, and diversity training effectiveness"
 url_poster: ""
 ---
 
